@@ -4,6 +4,7 @@ SOC282 – Phising Alert – Deceptive Mall Detected (Medium)
 <img width="1449" height="414" alt="image" src="https://github.com/user-attachments/assets/a567aff2-064e-4da7-868f-7181b5394770" />
 
 TimeLine:
+
 Email Send by IP 103.80.134.64 with email free@coffeeshooop.com at May, 13, 2024, 09:20 AM to Felix@letsdefend.io
 
 <img width="1449" height="414" alt="image" src="https://github.com/user-attachments/assets/5cf06ab9-95e8-48e8-bc95-2c5082dc3753" />
