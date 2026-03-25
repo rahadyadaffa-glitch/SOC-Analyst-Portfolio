@@ -1,6 +1,5 @@
 SOC282 – Phising Alert – Deceptive Mall Detected (Medium)
 <img width="1340" height="102" alt="image" src="https://github.com/user-attachments/assets/8967ba85-3d16-4a16-8fdd-c23267fdd472" />
-
 <img width="1449" height="414" alt="image" src="https://github.com/user-attachments/assets/a567aff2-064e-4da7-868f-7181b5394770" />
 
 TimeLine:
