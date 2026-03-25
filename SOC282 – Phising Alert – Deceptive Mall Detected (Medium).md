@@ -12,13 +12,13 @@ At the same day at May, 13, 2024, 12:59 PM Felix open the email and open url tha
 
 <img width="623" height="337" alt="image" src="https://github.com/user-attachments/assets/a894a0a0-3942-4b88-80d7-ab933fa5115c" />
 
-And then at May, 13, 2024, 01:00 PM felix install the application from zipfile the file that felix install is coffee.exe and the destination IP from coffee.exe is suspicious.
+And then at May, 13, 2024, 01:00 PM felix install the application from zipfile, the file that felix install is coffee.exe and the destination IP from coffee.exe is suspicious becauase it has 11/94 score in virus total.
 
 <img width="1339" height="73" alt="image" src="https://github.com/user-attachments/assets/a3ab4f7b-71f8-408e-8e67-9192041c2864" />
 
 <img width="628" height="331" alt="image" src="https://github.com/user-attachments/assets/b6ca84e3-7455-498a-a939-7874af37be86" />
 
-At the same time after coffee.exe successfully install in felix device there is a procces that bring up Image hash after I check the hash in virustotal that hash is suspious that indicated backdoor and spyware
+At the same time after coffee.exe successfully install in felix device there is a procces that bring up Image hash and after i check the hash in virustotal that hash is suspious because it has 57/71 score and the virustotal mark that this hash about backdoor and spyware
 
 <img width="1011" height="458" alt="image" src="https://github.com/user-attachments/assets/4891569e-f4c7-4f31-980b-1d08bb77bf43" />
 
